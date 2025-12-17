@@ -1,0 +1,65 @@
+{
+  "fiscalYear": "2025",
+  "totalBudget": 497023889,
+  "lastUpdated": "2024-09-24",
+  "metrics": {
+    "yearOverYearChange": "7.5%",
+    "taxableValueIncrease": "10.11%",
+    "totalPositions": 1331
+  },
+  "revenues": [
+    { "category": "Ad Valorem Taxes", "amount": 132601385, "percentage": 26.7 },
+    { "category": "Intergovernmental Revenue", "amount": 20176550, "percentage": 4.1 },
+    { "category": "Charges for Services", "amount": 67978626, "percentage": 13.7 },
+    { "category": "Licenses & Permits", "amount": 29324571, "percentage": 5.9 },
+    { "category": "Other Taxes", "amount": 11130000, "percentage": 2.2 },
+    { "category": "Interfund Transfers & Fund Balance", "amount": 240127209, "percentage": 48.3 }
+  ],
+  "expenditures": {
+    "General Government": {
+      "total": 100300052,
+      "departments": [
+        { "name": "Board of County Commissioners", "amount": 863245 },
+        { "name": "County Administrator", "amount": 1072838 },
+        { "name": "County Attorney", "amount": 804495 },
+        { "name": "Management & Budget", "amount": 1543395 },
+        { "name": "Facilities Management", "amount": 6199547 },
+        { "name": "Systems Management", "amount": 3158313 }
+      ]
+    },
+    "Public Safety": {
+      "total": 82063291,
+      "departments": [
+        { "name": "Sheriff's Office", "amount": 41238433 },
+        { "name": "Fire Rescue", "amount": 19867212 },
+        { "name": "Emergency Medical Services", "amount": 14689536 },
+        { "name": "Animal Services", "amount": 6355433 }
+      ]
+    },
+    "Physical Environment": {
+      "total": 120930271,
+      "departments": [
+        { "name": "Solid Waste Management", "amount": 32274884 },
+        { "name": "Utilities (Water/Wastewater)", "amount": 59577108 },
+        { "name": "Stormwater", "amount": 9832460 }
+      ]
+    },
+    "Transportation": {
+      "total": 55852348,
+      "departments": [
+        { "name": "Road Maintenance", "amount": 8879671 },
+        { "name": "Engineering", "amount": 41764754 },
+        { "name": "Aviation", "amount": 2659390 }
+      ]
+    },
+    "Constitutional Officers": {
+      "total": 58686232,
+      "departments": [
+        { "name": "Clerk of Court", "amount": 3782094 },
+        { "name": "Property Appraiser", "amount": 4020354 },
+        { "name": "Tax Collector", "amount": 3833580 },
+        { "name": "Supervisor of Elections", "amount": 2883278 }
+      ]
+    }
+  }
+}
